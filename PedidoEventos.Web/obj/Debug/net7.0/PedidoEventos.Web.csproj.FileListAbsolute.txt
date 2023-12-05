@@ -67,3 +67,4 @@ c:\Users\endyk\Desktop\GerenciaEventos\PedidoEventos.Web\obj\Debug\net7.0\refint
 c:\Users\endyk\Desktop\GerenciaEventos\PedidoEventos.Web\obj\Debug\net7.0\PedidoEventos.Web.pdb
 c:\Users\endyk\Desktop\GerenciaEventos\PedidoEventos.Web\obj\Debug\net7.0\PedidoEventos.Web.genruntimeconfig.cache
 c:\Users\endyk\Desktop\GerenciaEventos\PedidoEventos.Web\obj\Debug\net7.0\ref\PedidoEventos.Web.dll
+c:\Users\endyk\Desktop\GerenciaEventos\PedidoEventos.Web\bin\Debug\net7.0\db.json

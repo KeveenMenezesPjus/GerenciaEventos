@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B3OCIer0VkgAkXZ7eGPKzKgttzdk/Ddc4Ez4WM8ipMk=",
+  "Hash": "4K9k6rfKyiuKnjAOVzqkBJqWkixfzvuDpGzW7LmDQuw=",
   "Source": "PedidoEventos.Web",
   "BasePath": "_content/PedidoEventos.Web",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\vue-toast.css"
+    },
+    {
+      "Identity": "c:\\Users\\endyk\\Desktop\\GerenciaEventos\\PedidoEventos.Web\\wwwroot\\db\\db.json",
+      "SourceId": "PedidoEventos.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\endyk\\Desktop\\GerenciaEventos\\PedidoEventos.Web\\wwwroot\\",
+      "BasePath": "_content/PedidoEventos.Web",
+      "RelativePath": "db/db.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\db\\db.json"
     },
     {
       "Identity": "c:\\Users\\endyk\\Desktop\\GerenciaEventos\\PedidoEventos.Web\\wwwroot\\favicon.ico",

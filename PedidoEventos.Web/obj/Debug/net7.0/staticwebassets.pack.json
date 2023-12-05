@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\css\\vue-toast.css"
     },
     {
+      "Id": "c:\\Users\\endyk\\Desktop\\GerenciaEventos\\PedidoEventos.Web\\wwwroot\\db\\db.json",
+      "PackagePath": "staticwebassets\\db\\db.json"
+    },
+    {
       "Id": "c:\\Users\\endyk\\Desktop\\GerenciaEventos\\PedidoEventos.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
