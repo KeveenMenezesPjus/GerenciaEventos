@@ -78,7 +78,6 @@ c:\Users\keveen.menezes\GerenciaEventos\PedidoEventos.Web\bin\Debug\net7.0\Pedid
 c:\Users\keveen.menezes\GerenciaEventos\PedidoEventos.Web\bin\Debug\net7.0\PedidoEventos.Web.dll
 c:\Users\keveen.menezes\GerenciaEventos\PedidoEventos.Web\bin\Debug\net7.0\PedidoEventos.Web.pdb
 c:\Users\keveen.menezes\GerenciaEventos\PedidoEventos.Web\bin\Debug\net7.0\Refit.dll
-c:\Users\keveen.menezes\GerenciaEventos\PedidoEventos.Web\bin\Debug\net7.0\System.Text.Json.dll
 c:\Users\keveen.menezes\GerenciaEventos\PedidoEventos.Web\obj\Debug\net7.0\PedidoEventos.Web.csproj.AssemblyReference.cache
 c:\Users\keveen.menezes\GerenciaEventos\PedidoEventos.Web\obj\Debug\net7.0\PedidoEventos.Web.GeneratedMSBuildEditorConfig.editorconfig
 c:\Users\keveen.menezes\GerenciaEventos\PedidoEventos.Web\obj\Debug\net7.0\PedidoEventos.Web.AssemblyInfoInputs.cache
@@ -103,3 +102,4 @@ c:\Users\keveen.menezes\GerenciaEventos\PedidoEventos.Web\obj\Debug\net7.0\refin
 c:\Users\keveen.menezes\GerenciaEventos\PedidoEventos.Web\obj\Debug\net7.0\PedidoEventos.Web.pdb
 c:\Users\keveen.menezes\GerenciaEventos\PedidoEventos.Web\obj\Debug\net7.0\PedidoEventos.Web.genruntimeconfig.cache
 c:\Users\keveen.menezes\GerenciaEventos\PedidoEventos.Web\obj\Debug\net7.0\ref\PedidoEventos.Web.dll
+c:\Users\keveen.menezes\GerenciaEventos\PedidoEventos.Web\obj\Debug\net7.0\PedidoEventos.Web.sourcelink.json
