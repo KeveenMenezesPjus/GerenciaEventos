@@ -1,19 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "produtos": [
+    { "id": 1, "nome": "Produto 1", "preco": 19.99 },
+    { "id": 2, "nome": "Produto 2", "preco": 29.99 }
+  ]
 }

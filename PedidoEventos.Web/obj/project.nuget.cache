@@ -1,13 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "wKLvglLngQ479NpwCcHlCNBFiNW0Z+AvfKrG1P9USmpyxyBpSNDjx8YU3I1x6wcuUp0PqxBIDzLUT2E9BO/TtA==",
+  "dgSpecHash": "WgcK1sWb9uc9WrtSavU0ijrZe3i1TmeroIRJcbdhq1zYCb/Hx2/YNGp3p5w4/Flhk8qK0gOFicr7MNxRmhExaw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\endyk\\Desktop\\GerenciaEventos\\PedidoEventos.Web\\PedidoEventos.Web.csproj",
+  "projectFilePath": "c:\\Users\\keveen.menezes\\GerenciaEventos\\PedidoEventos.Web\\PedidoEventos.Web.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\endyk\\.nuget\\packages\\refit\\7.0.0\\refit.7.0.0.nupkg.sha512",
-    "C:\\Users\\endyk\\.nuget\\packages\\system.net.http.json\\7.0.1\\system.net.http.json.7.0.1.nupkg.sha512",
-    "C:\\Users\\endyk\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\endyk\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+    "C:\\Users\\keveen.menezes\\.nuget\\packages\\refit\\7.0.0\\refit.7.0.0.nupkg.sha512",
+    "C:\\Users\\keveen.menezes\\.nuget\\packages\\system.net.http.json\\7.0.1\\system.net.http.json.7.0.1.nupkg.sha512",
+    "C:\\Users\\keveen.menezes\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\keveen.menezes\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512",
+    "C:\\Users\\keveen.menezes\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\keveen.menezes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\keveen.menezes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\keveen.menezes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }
