@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Dhi1OavpsMzP+qxRa61U5XNuLfj94CceXhQq5O37fBG3x3kuVSg+RuE8vR9dYvj6SekDfgBhctaevUa7TlTxA==",
+  "dgSpecHash": "WgcK1sWb9uc9WrtSavU0ijrZe3i1TmeroIRJcbdhq1zYCb/Hx2/YNGp3p5w4/Flhk8qK0gOFicr7MNxRmhExaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\keveen.menezes\\GerenciaEventos\\PedidoEventos.Web\\PedidoEventos.Web.csproj",
+  "projectFilePath": "c:\\Users\\keveen.menezes\\GerenciaEventos\\PedidoEventos.Web\\PedidoEventos.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\keveen.menezes\\.nuget\\packages\\refit\\7.0.0\\refit.7.0.0.nupkg.sha512",
     "C:\\Users\\keveen.menezes\\.nuget\\packages\\system.net.http.json\\7.0.1\\system.net.http.json.7.0.1.nupkg.sha512",
