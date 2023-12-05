@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PedidoEventos.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+550e1970b0fcada2eac9b9df73ae98029c49aef3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PedidoEventos.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PedidoEventos.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
